@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.csproj.AssemblyReference.cache
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.exe.config
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.exe
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.pdb
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.exe
+C:\Users\marco\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.pdb
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.exe
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\obj\Debug\Calculadora aula de logica.pdb
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.exe.config
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.exe
+C:\Users\marco\OneDrive\Desktop\Lógica de programção II\Calculadora aula de logica\bin\Debug\Calculadora aula de logica.pdb
