@@ -15,7 +15,7 @@ internal class Program
         int num2;
         int opcao = 0;
 
-        while (opcao != 8)
+        while (opcao != 7)
         {
 
             Console.WriteLine("\nCalculadora\n");
@@ -25,8 +25,7 @@ internal class Program
             Console.WriteLine("4 - Somar mais de 2 números");
             Console.WriteLine("5 - Dividir");
             Console.WriteLine("6 - Media entre 2 ou mais números");
-            Console.WriteLine("7 - ");
-            Console.WriteLine("8 - Sair\n");
+            Console.WriteLine("7 - - Sair\n");
 
             opcao = int.Parse(Console.ReadLine());
 
